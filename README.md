@@ -6,6 +6,11 @@
     把UIAlertView,UIActionSheet,UIAlertController等控件的麻烦且没什么意义的代码封装起来;只需要一个api就能做出弹出框,点击弹出框的标记会以block形式传递出来.
 
 ###用法
+
+使用 
+
+pod 'BCHAlertView'
+
 1.```UIView+BCHActionSheet```
 
 代码:
