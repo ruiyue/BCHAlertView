@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
 s.name         = "BCHAlertView"
-s.version      = "0.0.3"
+s.version      = "0.0.4"
 s.summary      = "对UIAlertView,UIActionSheet,UIAlertController等控件封装的弹出框.."
 
 s.description  = <<-DESC

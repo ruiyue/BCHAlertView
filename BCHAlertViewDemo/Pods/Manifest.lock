@@ -1,0 +1,12 @@
+PODS:
+  - BCHAlertView (0.0.4)
+
+DEPENDENCIES:
+  - BCHAlertView
+
+SPEC CHECKSUMS:
+  BCHAlertView: fce46ce59ce4fb74cb555ad3612b8a4d9bb85b5a
+
+PODFILE CHECKSUM: cdcf3514b052de0c2b75386e77bd23c95b22f3bd
+
+COCOAPODS: 1.0.0
