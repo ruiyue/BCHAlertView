@@ -1,9 +1,9 @@
 //
 //  UIView+BCHActionSheet.h
-//  Monkey_BCH
+//  BCHAlertView
 //
-//  Created by yiliao on 16/9/21.
-//  Copyright © 2016年 Yao. All rights reserved.
+//  Created by 白成慧 on 16/9/21.
+//  Copyright © 2016年 coder_bai. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
